@@ -1,1 +1,3 @@
-this is my file 2 for git course
+this is my file 2 for git course.
+
+Adding more content to file 2.
